@@ -1,15 +1,3 @@
-<table style="width:100%">
-    <thead>
-        <th style="width:50%">Hi!</th><th style="width:50%">👋 </th>
-    </thead>
-    <tbody>
-        <tr> <td>Name:</td><td>Max</td></tr>
-        <tr><td>Pronouns:</td><td>he/him</td></tr>
-        <tr><td>Home base:</td><td>San Francisco Bay Area</td></tr>
-        <tr><td>Website:</td><td><a href="https://max.tarlov.dev" rel="nofollow">max.tarlov.dev</a></td></tr>
-    </tbody>
-</table>
-
 | Hi!        | 👋                                       |
 |------------|------------------------------------------|
 | Name:      | Max                                      |
