@@ -1,23 +1,21 @@
-### Hi! 👋
+| Hi!        | 👋                                       |
+|------------|------------------------------------------|
+| Name:      | Max                                      |
+| Pronouns:  | he/him                                   |
+| Home base: | San Francisco Bay Area                   |
+| Website:   | [max.tarlov.dev](https://max.tarlov.dev) |
 
-**I'm Max**
-- Pronouns: he/him
-- Home base: San Francisco Bay Area
-- Website: [max.tarlov.dev](https://max.tarlov.dev)
+| Interests           | Programming languages |
+|---------------------|-----------------------|
+| Linguistics/NLP/NLU | Python                |
+| Web development     | JavaScript            |
 
-**My interests**
-- Linguistics/NLP/NLU
-- Web development
+| Good at                       | Bad at                |
+|-------------------------------|-----------------------|
+| Debugging recursive functions | Low-level programming |
+| Writing/editing               | Simplifying concepts  |
+| Cooking                       | Bridge (card game)    |
 
-**Good at**
-- Debugging recursive functions
-- Writing/editing
-- Cooking
-
-**Bad at**
-- Low-level programming languages
-- Not overcomplicating simple things
-- Bridge (card game)
 <!--
 **maxTarlov/maxTarlov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
