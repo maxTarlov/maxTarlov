@@ -7,12 +7,12 @@
     }
 </style>
 
-| Hi!        | 👋                                       |
-|------------|------------------------------------------|
-| Name:      | Max                                      |
-| Pronouns:  | he/him                                   |
-| Home base: | San Francisco Bay Area                   |
-| Website:   | [max.tarlov.dev](https://max.tarlov.dev) |
+| Hi!           | 👋                                       |
+|---------------|------------------------------------------|
+| **Name**      | Max                                      |
+| **Pronouns**  | he/him                                   |
+| **Home base** | San Francisco Bay Area                   |
+| **Website**   | [max.tarlov.dev](https://max.tarlov.dev) |
 
 | Interests           | Programming languages |
 |---------------------|-----------------------|
